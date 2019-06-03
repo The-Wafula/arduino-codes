@@ -1,2 +1,2 @@
 # arduino-codes
-numerous arduino codes i haave developed an used
+Numerous arduino codes i haave developed an used
